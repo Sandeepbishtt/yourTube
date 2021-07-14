@@ -1,7 +1,7 @@
 
 # yourTube
 
-YouTube-clone using React Js/Redux/Material UI
+YouTube-clone using React Js/Material UI
 
 
 ## Screenshot
@@ -11,7 +11,7 @@ YouTube-clone using React Js/Redux/Material UI
   
 ## Tech Stack
 
-**Client:** React, Redux, Material UI
+**Client:** React, Material UI
 
 
 
